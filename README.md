@@ -1,3 +1,3 @@
 # ***Communication System***
-Playing ***XO*** game with computer,using `X` and `O` as markers.
+Connecting server and client for communication.
 No ***GUI*** is used and runs in ***Console***.
